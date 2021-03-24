@@ -1,8 +1,10 @@
 # How-To-Make-Low-Cost-Bass-Booster-Circuit
 In This Project We Will Tech You, How To Make A Simple Bass Booster Circuit At Home Easily. You Can Make This Circuit At Very Low Cost. 
 
-Thanks To JLCPCB For $2 PCB Prototype With Free SMT Assembly Fee.
-Order Now - https://jlcpcb.com
+Thanks To JLCPCB.
+$2 for 1-4 Layer PCBs.  
+
+Get SMT Coupons:  https://jlcpcb.com/RTA
 
 
 To Make This Amplifier Circuit We Will Need Some Electronics Component. 
